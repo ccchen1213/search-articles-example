@@ -2,6 +2,8 @@
   "name": "helloworldextensioin",
   "displayName": "HelloWorldExtensioin",
   "description": "just for test",
+  "publisher": "ccchencc",
+  "repository": "https://github.com/ccchen1213/search-articles-example",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
