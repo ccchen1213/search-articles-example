@@ -52,7 +52,7 @@ export async function activate(context: vscode.ExtensionContext) {
 			console.log('vscode get article failed: ', err);
 		}
 		
-		vscode.window.showInformationMessage('Hello World from SearchArticlesExtensioin!');
+		vscode.window.showInformationMessage('Hello World from SearchArticlesExtension!');
 	});
 
 	context.subscriptions.push(disposable);
