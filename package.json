@@ -3,7 +3,10 @@
   "displayName": "SearchArticlesExtension",
   "description": "just for test",
   "publisher": "ccchencc",
-  "repository": "https://github.com/ccchen1213/search-articles-example",
+  "repository": {
+    "url": "https://github.com/ccchen1213/search-articles-example"
+  },
+  "icon": "logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
