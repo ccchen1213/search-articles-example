@@ -1,6 +1,6 @@
 {
-  "name": "helloworldextensioin",
-  "displayName": "HelloWorldExtensioin",
+  "name": "searcharticlesextension",
+  "displayName": "SearchArticlesExtensioin",
   "description": "just for test",
   "publisher": "ccchencc",
   "repository": "https://github.com/ccchen1213/search-articles-example",
@@ -16,7 +16,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "helloworldextensioin.searchCNNArticles",
+        "command": "searcharticlesextension.searchCNNArticles",
         "title": "search articles"
       }
     ]
